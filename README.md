@@ -455,22 +455,5 @@ out_buffer.free()
 
 
 
-# Learning Outcomes
-
-Through these experiments, the following concepts were explored:
-
-- Zynq Processing System (PS)
-- Programmable Logic (PL)
-- AXI DMA
-- AXI4-Stream Protocol
-- FIFO-Based Data Transfer
-- Custom IP Development
-- AXI Wrapper Design
-- Combinational Hardware Accelerators
-- FSM-Based Hardware Accelerators
-- PYNQ Overlay Framework
-- Hardware–Software Co-Design on FPGA Platforms
-
----
 
 
